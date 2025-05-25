@@ -11,6 +11,13 @@ Evaluar el rendimiento de la API REST que gestiona la consulta y el pago de deud
 
 ## Instrucciones
 
+- Instala los requisitos:
+    `pip install -r requirements.txt`
+- Crea la BD ejecutando crear_db.py
+- Lanza ambas aplicaciones:
+    - `python -m banco.main`  
+    - `python -m telco.main`
+
 ### A. Configuración de entorno
 
 Tener en ejecución:
